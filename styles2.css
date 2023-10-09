@@ -1,0 +1,21 @@
+.content {
+    overflow: hidden;
+}
+
+section {
+  float: left;
+  width: 33.33%;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
